@@ -1,5 +1,17 @@
 # ElixirPbt
 
+## install deps
+
+```
+mix deps.get
+```
+
+## run test
+
+```
+mix test
+```
+
 **TODO: Add description**
 
 ## Installation
